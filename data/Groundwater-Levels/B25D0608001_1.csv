@@ -1,0 +1,31 @@
+Titel:,,,,,,,,,,,
+Gebruikersnaam:,,,,,,,,,,,
+Periode aangevraagd:,01-01-1800,tot:,10-06-2017,,,,,,,,
+Gegevens beschikbaar:,14-03-1969,tot:,14-10-1969,,,,,,,,
+Datum: ,10-06-2017,,,,,,,,,,
+Referentie:,NAP,,,,,,,,,,
+
+NAP:,Normaal Amsterdams Peil,,,,,,,,,,
+MV:,Maaiveld,,,,,,,,,,
+MP:,Meetpunt,,,,,,,,,,
+
+Locatie,Filternummer,Externe aanduiding,X-coordinaat,Y-coordinaat,Maaiveld (cm t.o.v. NAP),Datum maaiveld gemeten,Startdatum,Einddatum,Meetpunt (cm t.o.v. NAP),Meetpunt (cm t.o.v. MV),Bovenkant filter (cm t.o.v. NAP),Onderkant filter (cm t.o.v. NAP)
+B25D0608,001,25DL0003,112350,485140,,,14-03-1969,13-03-1970,,20,,
+
+
+Locatie,Filternummer,Peildatum,Stand (cm t.o.v. MP),Stand (cm t.o.v. MV),Stand (cm t.o.v. NAP),Bijzonderheid,Opmerking,,,
+B25D0608,001,14-03-1969,212,192,,,,,,,
+B25D0608,001,28-03-1969,218,198,,,,,,,
+B25D0608,001,14-04-1969,160,140,,,,,,,
+B25D0608,001,28-04-1969,145,125,,,,,,,
+B25D0608,001,14-05-1969,150,130,,,,,,,
+B25D0608,001,28-05-1969,140,120,,,,,,,
+B25D0608,001,16-06-1969,141,121,,,,,,,
+B25D0608,001,30-06-1969,155,135,,,,,,,
+B25D0608,001,14-07-1969,160,140,,,,,,,
+B25D0608,001,28-07-1969,170,150,,,,,,,
+B25D0608,001,14-08-1969,177,157,,,,,,,
+B25D0608,001,28-08-1969,162,142,,,,,,,
+B25D0608,001,16-09-1969,152,132,,,,,,,
+B25D0608,001,29-09-1969,160,140,,,,,,,
+B25D0608,001,14-10-1969,160,140,,,,,,,

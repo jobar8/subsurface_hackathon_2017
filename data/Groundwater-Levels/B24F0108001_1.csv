@@ -1,0 +1,21 @@
+Titel:,,,,,,,,,,,
+Gebruikersnaam:,,,,,,,,,,,
+Periode aangevraagd:,01-01-1800,tot:,10-06-2017,,,,,,,,
+Gegevens beschikbaar:,14-11-1972,tot:,15-03-1973,,,,,,,,
+Datum: ,10-06-2017,,,,,,,,,,
+Referentie:,NAP,,,,,,,,,,
+
+NAP:,Normaal Amsterdams Peil,,,,,,,,,,
+MV:,Maaiveld,,,,,,,,,,
+MP:,Meetpunt,,,,,,,,,,
+
+Locatie,Filternummer,Externe aanduiding,X-coordinaat,Y-coordinaat,Maaiveld (cm t.o.v. NAP),Datum maaiveld gemeten,Startdatum,Einddatum,Meetpunt (cm t.o.v. NAP),Meetpunt (cm t.o.v. MV),Bovenkant filter (cm t.o.v. NAP),Onderkant filter (cm t.o.v. NAP)
+B24F0108,001,24FL0013,99530,495880,406,14-11-1972,14-11-1972,15-04-1973,391,-15,91,-9
+
+
+Locatie,Filternummer,Peildatum,Stand (cm t.o.v. MP),Stand (cm t.o.v. MV),Stand (cm t.o.v. NAP),Bijzonderheid,Opmerking,,,
+B24F0108,001,14-11-1972,144,159,247,,,,,,
+B24F0108,001,14-12-1972,132,147,259,,,,,,
+B24F0108,001,15-01-1973,149,164,242,,,,,,
+B24F0108,001,14-02-1973,141,156,250,,,,,,
+B24F0108,001,15-03-1973,132,147,259,,,,,,

@@ -1,0 +1,31 @@
+Titel:,,,,,,,,,,,
+Gebruikersnaam:,,,,,,,,,,,
+Periode aangevraagd:,01-01-1800,tot:,10-06-2017,,,,,,,,
+Gegevens beschikbaar:,14-10-1952,tot:,14-10-1955,,,,,,,,
+Datum: ,10-06-2017,,,,,,,,,,
+Referentie:,NAP,,,,,,,,,,
+
+NAP:,Normaal Amsterdams Peil,,,,,,,,,,
+MV:,Maaiveld,,,,,,,,,,
+MP:,Meetpunt,,,,,,,,,,
+
+Locatie,Filternummer,Externe aanduiding,X-coordinaat,Y-coordinaat,Maaiveld (cm t.o.v. NAP),Datum maaiveld gemeten,Startdatum,Einddatum,Meetpunt (cm t.o.v. NAP),Meetpunt (cm t.o.v. MV),Bovenkant filter (cm t.o.v. NAP),Onderkant filter (cm t.o.v. NAP)
+B25B1033,001,25BL0016,113630,495120,-139,14-10-1952,14-10-1952,28-04-1954,-144,-5,,
+B25B1033,001,25BL0016,113630,495120,-139,14-10-1952,28-04-1954,29-08-1955,-145,-6,,
+B25B1033,001,25BL0016,113630,495120,-139,14-10-1952,29-08-1955,28-08-1958,-143,-4,,
+
+
+Locatie,Filternummer,Peildatum,Stand (cm t.o.v. MP),Stand (cm t.o.v. MV),Stand (cm t.o.v. NAP),Bijzonderheid,Opmerking,,,
+B25B1033,001,14-10-1952,17,22,-161,,,,,,
+B25B1033,001,23-12-1952,0,5,-144,,,,,,
+B25B1033,001,27-04-1953,38,43,-182,,,,,,
+B25B1033,001,28-08-1953,40,45,-184,,,,,,
+B25B1033,001,14-10-1953,38,43,-182,,,,,,
+B25B1033,001,14-12-1953,28,33,-172,,,,,,
+B25B1033,001,28-04-1954,48,54,-193,,,,,,
+B25B1033,001,28-08-1954,21,27,-166,,,,,,
+B25B1033,001,15-10-1954,17,23,-162,,,,,,
+B25B1033,001,14-12-1954,-4,2,-141,,,,,,
+B25B1033,001,27-04-1955,34,40,-179,,,,,,
+B25B1033,001,29-08-1955,46,50,-189,,,,,,
+B25B1033,001,14-10-1955,34,38,-177,,,,,,
