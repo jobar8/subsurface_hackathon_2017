@@ -1,0 +1,11 @@
+LOCATIE gegevens
+NITG-nr	X-coord	Y-coord	Coordinaat systeem	Kaartblad	Bepaling locatie	Maaiveldhoogte (m tov NAP)	Bepaling maaiveldhoogte	OLGA-nr	RIVM-nr	Aantal analyses	Meetnet	Indeling	
+B25B0007	110367	489101	Rijksdriehoeksmeting	25B		-0.26		25BA3007		5			
+
+KWALITEIT gegevens VLOEIBAAR
+NITG-nr	Monster datum	Monster-nr	Monster apparatuur	Mengmonster	Bovenkant monster (cm tov MV)	Onderkant monster (cm tov MV)	Analyse datum	Cl- (mg/l)	TEMP-V (C)	
+B25B0007		C1900-01-1002		nee		2355.0	01-01-1900	1152.4	0	
+B25B0007		C1900-01-1003		nee		2910.0	01-01-1900	1668	0	
+B25B0007		C1900-01-1001		nee		1800.0	01-01-1900	904.5	0	
+B25B0007		C1900-01-1004		nee		3280.0	01-01-1900	4082	0	
+B25B0007		C1900-01-1005		nee		4205.0	01-01-1900	4615	0	

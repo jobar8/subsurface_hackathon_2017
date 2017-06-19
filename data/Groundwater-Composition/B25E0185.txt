@@ -1,0 +1,14 @@
+LOCATIE gegevens
+NITG-nr	X-coord	Y-coord	Coordinaat systeem	Kaartblad	Bepaling locatie	Maaiveldhoogte (m tov NAP)	Bepaling maaiveldhoogte	OLGA-nr	RIVM-nr	Aantal analyses	Meetnet	Indeling	
+B25E0185	127950	495200	Rijksdriehoeksmeting	25E	Geschat, detailkaart 1:2500	-3.9		25EP0185		8			
+
+KWALITEIT gegevens VLOEIBAAR
+NITG-nr	Monster datum	Monster-nr	Monster apparatuur	Mengmonster	Bovenkant monster (cm tov MV)	Onderkant monster (cm tov MV)	Analyse datum	CO2 (mg/l)	CO3-- (mg/l)	Ca (mg/l)	Cl- (mg/l)	EC (mS/m)	EC (uS/cm)	Fe (mg/l)	HCO3 (mg/l)	K (mg/l)	KLEUR (mgPt/l)	KMNO4V-O (mg/l)	Mg (mg/l)	Mn (mg/l)	NH4 (mg/l)	NH4-ORG (mg/l)	NO2 (mg/l)	NO3 (mg/l)	Na (mg/l)	NaHCO3 (mg/l)	O-PO4 (mg/l)	SO4 (mg/l)	SiO2 (mg/l)	T-PO4 (mg/l)	TEMP-V (C)	TIJDH (mmol/l)	TOTH (mmol/l)	pH (-)	
+B25E0185		C1971-01-1015		nee	2400.0	2500.0	01-01-1971				680																								
+B25E0185		C1971-01-1016		nee	5090.0	5190.0	01-01-1971				838																								
+B25E0185		C1971-01-1014		nee	1520.0	1620.0001	01-01-1971				350																								
+B25E0185	22-10-1980	C1980-10-1104		nee	15200.0	16200.0	22-10-1980			150	385	188		9.1	630	13		118.5	37	.24	9.326		<.032	.487	240		2.793	21	29.96		20		5.264	7.2	
+B25E0185	22-10-1980	C1980-10-1105		nee	24000.0	25000.0	22-10-1980			230	835	315		8.9	610	10		29	55	.2	3.97		<.01	.11	390		.39	66	12.1		20		8	7.3	
+B25E0185	24-06-1958	C1958-06-1044		nee	15200.0	16200.0	24-06-1958	37	0	105.4	250		138.25	7.7	567		12	42	34.9	.24	15.3	.24	0	0	170	90		2.5	37.6	2.7	18	8.17	4.089	7.56	
+B25E0185	24-06-1958	C1958-06-1046		nee	50900.0	51900.0	24-06-1958	19.2	0	167.4	730		251.36	3.4	488		7	32	65.9	.35	11.1	.19	0	0	320	0		3.3	19.2	.36	18	8	6.929	7.78	
+B25E0185	24-06-1958	C1958-06-1045		nee	24000.0	25000.0	24-06-1958	18	0	151.4	470		190.61	6.7	480		10	28	40.3	.21	4.7	.14	0	0	234	0		5.8	19.2	1.2	18	7.85	5.464	7.8	

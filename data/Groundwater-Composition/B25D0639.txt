@@ -1,0 +1,10 @@
+LOCATIE gegevens
+NITG-nr	X-coord	Y-coord	Coordinaat systeem	Kaartblad	Bepaling locatie	Maaiveldhoogte (m tov NAP)	Bepaling maaiveldhoogte	OLGA-nr	RIVM-nr	Aantal analyses	Meetnet	Indeling	
+B25D0639	115128	487350	Rijksdriehoeksmeting	25D		-0.7	geschat, Hoogtekaart 1:10.000			0			
+
+KWALITEIT gegevens VLOEIBAAR
+NITG-nr	Monster datum	Monster-nr	Monster apparatuur	Mengmonster	Bovenkant monster (cm tov MV)	Onderkant monster (cm tov MV)	Analyse datum	As (ug/l)	Ba (ug/l)	Ca (mg/l)	Cd (ug/l)	Cl- (mg/l)	Cr (ug/l)	Cu (ug/l)	EC-LAB25C (mS/m)	Fe (ug/l)	H3 (Bq/l)	HCO3 (mg/l)	K (mg/l)	Mg (mg/l)	Mn (ug/l)	NH4 (mgN/l)	NO3 (mgN/l)	Na (mg/l)	Ni (ug/l)	Ortho-fosfaat (mgP/l)	Pb (ug/l)	SO4 (mg/l)	SiO2 (mg/l)	SiO2 (mgSi/l)	Sr (ug/l)	Zn (ug/l)	pH-lab (-)	
+B25D0639	21-07-2009	L2009-07-0018	Slangenpomp	nee			21-07-2009	4	220	170	<.1	4400	<.8	<1	1345	1700		940	62	210	240	9.1	<.05	2200	<1	<.05	<1	180	6.4	3	1700	<5	7.2	
+B25D0639	21-07-2009	L2009-07-0014	Slangenpomp	nee			21-07-2009	8	160	55	<.1	260	1.9	<1	214	5800	<6	930	26	41	130	11	<.05	290	<1	.08	<1	8.7	23	11	360	<5	7.2	
+B25D0639	21-07-2009	L2009-07-0012	Slangenpomp	nee			21-07-2009	7	350	80	<.1	1800	<.8	<1	120.3	4500		890	29	73	110	6.6	<.05	1100	<1	<.05	<1	<1	12	5.7	670	<5	7.2	
+B25D0639	21-07-2009	L2009-07-0013	Slangenpomp	nee			21-07-2009	6	130	93	<.1	180	1.6	<1	209	7200	<6	1000	31	55	670	21	<.05	200	<1	.21	<1	9.1	18	8.5	690	<5	6.8	

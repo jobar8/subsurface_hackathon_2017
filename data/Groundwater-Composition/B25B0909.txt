@@ -1,0 +1,16 @@
+LOCATIE gegevens
+NITG-nr	X-coord	Y-coord	Coordinaat systeem	Kaartblad	Bepaling locatie	Maaiveldhoogte (m tov NAP)	Bepaling maaiveldhoogte	OLGA-nr	RIVM-nr	Aantal analyses	Meetnet	Indeling	
+B25B0909	115090	491600	Rijksdriehoeksmeting	25B		0.92		25BP0909		10			
+
+KWALITEIT gegevens VLOEIBAAR
+NITG-nr	Monster datum	Monster-nr	Monster apparatuur	Mengmonster	Bovenkant monster (cm tov MV)	Onderkant monster (cm tov MV)	Analyse datum	As (ug/l)	As(III) (ug/l)	Ca (mg/l)	Cl- (mg/l)	EC (uS/cm)	Fe (mg/l)	HCO3 (mg/l)	K (mg/l)	Mg (mg/l)	Mn (mg/l)	NH4 (mg/l)	NO3 (mg/l)	Na (mg/l)	PO4 (mg/l)	SO4 (mg/l)	SiO2 (mg/l)	pH (-)	
+B25B0909	24-11-1994	T1989-00-3322		nee	19020.0	20020.0	24-11-1994			304	1210	6190	35.4	2339	62.6	182	1.67	159.9	<.05	695	20.92	32	56.8	6.82	
+B25B0909	24-11-1994	T1989-00-3322		nee	19020.0	20020.0	24-11-1994	7.7	3.4																
+B25B0909	24-11-1994	T1989-00-3325		nee	92060.0	93060.0	24-11-1994			308	8300	21540	8.97	459	130.8	488	.65	16.4	<.05	4209	1.87	929	12.9	7.03	
+B25B0909	24-11-1994	T1989-00-3325		nee	92060.0	93060.0	24-11-1994	9.8	9.3																
+B25B0909	24-11-1994	T1989-00-3323		nee	36030.0	37030.0	24-11-1994			495	2040	7259	1.26	1157	52.3	164	.86	20.3	<.05	882	8.18	291	36.8	7.09	
+B25B0909	24-11-1994	T1989-00-3323		nee	36030.0	37030.0	24-11-1994	.8	.8																
+B25B0909	24-11-1994	T1989-00-3326		nee	116080.0	117080.0	24-11-1994			327	8778	22530	9.58	401	141.5	518	.84	18.6	.29	4389	2.84	989	13.1	7.09	
+B25B0909	24-11-1994	T1989-00-3326		nee	116080.0	117080.0	24-11-1994	18.9	18.9																
+B25B0909	24-11-1994	T1989-00-3324		nee	59040.0	60040.0	24-11-1994			207	3591	10780	2.44	850	62.7	226	.22	12.7	<.05	1843	3.89	230	19.4	7.19	
+B25B0909	24-11-1994	T1989-00-3324		nee	59040.0	60040.0	24-11-1994	2	1.4																

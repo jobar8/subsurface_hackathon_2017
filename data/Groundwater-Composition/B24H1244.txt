@@ -1,0 +1,7 @@
+LOCATIE gegevens
+NITG-nr	X-coord	Y-coord	Coordinaat systeem	Kaartblad	Bepaling locatie	Maaiveldhoogte (m tov NAP)	Bepaling maaiveldhoogte	OLGA-nr	RIVM-nr	Aantal analyses	Meetnet	Indeling	
+B24H1244	99793	486217	Rijksdriehoeksmeting	24H		9.26	Landmeting			0			
+
+KWALITEIT gegevens VLOEIBAAR
+NITG-nr	Monster datum	Monster-nr	Monster apparatuur	Mengmonster	Bovenkant monster (cm tov MV)	Onderkant monster (cm tov MV)	Analyse datum	As (ug/l)	Ba (ug/l)	Ca (mg/l)	Cd (ug/l)	Cl- (mg/l)	Cr (ug/l)	Cu (ug/l)	EC-LAB25C (mS/m)	Fe (ug/l)	H3 (Bq/l)	HCO3 (mg/l)	K (mg/l)	Mg (mg/l)	Mn (ug/l)	NH4 (mgN/l)	NO3 (mgN/l)	Na (mg/l)	Ni (ug/l)	Ortho-fosfaat (mgP/l)	Pb (ug/l)	SO4 (mg/l)	SiO2 (mg/l)	SiO2 (mgSi/l)	Sr (ug/l)	Zn (ug/l)	pH-lab (-)	
+B24H1244	02-09-2009	L2009-09-0117	Slangenpomp	nee	10000.0	12000.0	02-09-2009	2	40	140	<.1	62	<.8	3	86.8	9300	<5	410	7	9	240	.17	<.05	25	<1	<.05	<1	41	14	6.4	470	<5	7	

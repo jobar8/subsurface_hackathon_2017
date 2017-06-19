@@ -1,0 +1,19 @@
+LOCATIE gegevens
+NITG-nr	X-coord	Y-coord	Coordinaat systeem	Kaartblad	Bepaling locatie	Maaiveldhoogte (m tov NAP)	Bepaling maaiveldhoogte	OLGA-nr	RIVM-nr	Aantal analyses	Meetnet	Indeling	
+B25A0943	104650	497225	Rijksdriehoeksmeting	25A		2.0		25AP0943		13			
+
+KWALITEIT gegevens VLOEIBAAR
+NITG-nr	Monster datum	Monster-nr	Monster apparatuur	Mengmonster	Bovenkant monster (cm tov MV)	Onderkant monster (cm tov MV)	Analyse datum	CO3-- (mg/l)	Ca (mg/l)	Cl- (mg/l)	EC (mS/m)	Fe (mg/l)	HCO3 (mg/l)	K (mg/l)	Mg (mg/l)	Mn (mg/l)	NH4 (mg/l)	NO2 (mg/l)	NO3 (mg/l)	Na (mg/l)	O-PO4 (mg/l)	SO4 (mg/l)	SiO2 (mg/l)	T-PO4 (mg/l)	TEMP-V (C)	TOC (mg/l)	TOTH (mmol/l)	pH (-)	
+B25A0943		C1976-06-1027		nee	1000.0	1100.0	17-06-1976			78																			
+B25A0943		C1985-11-1060		nee	10300.0	10400.0	07-11-1985	0	290	9259	2430	11.03	447	111	552.8	.389	19.6	.08	.01	5360		1040	13.8	.02	20	6.7	29.975	7.4	
+B25A0943		C1976-06-1028		nee	2100.0	2200.0	17-06-1976			70																			
+B25A0943		C1976-06-1032		nee	13800.0	13900.0	17-06-1976			14900																			
+B25A0943		C1976-06-1030		nee	5600.0	5700.0	17-06-1976			649																			
+B25A0943		C1976-06-1029		nee	3600.0	3700.0	17-06-1976			80																			
+B25A0943		C1976-06-1031		nee	10300.0	10400.0	17-06-1976			7480																			
+B25A0943	26-09-1983	C1983-09-1157		nee	21000.0	22000.0	26-09-1983		109	71	74	3.5	339	7.8	9.5	.25	1.7		.01	41	.15	34			20		3.11	7.5	
+B25A0943	26-09-1983	C1983-09-1159		nee	56000.0	57000.0	26-09-1983		65	723	328	7.8	899	20.7	44	2	21.7		.01	620	.64	57			20		3.431	7.4	
+B25A0943	26-09-1983	C1983-09-1156		nee	10000.0	11000.0	26-09-1983		109	69	72	2.1	338	7.5	9.2	.16	1.6		.01	40	.13	24			20		3.098	7.5	
+B25A0943	26-09-1983	C1983-09-1160		nee	103000.0	104000.0	26-09-1983			12020																			
+B25A0943	26-09-1983	C1983-09-1161		nee	138000.0	139000.0	26-09-1983		430	14732	3720	7.1	332	210	920	.53	17.4		.08	8350	.08	1850			20		48.573	7.1	
+B25A0943	26-09-1983	C1983-09-1158		nee	36000.0	37000.0	26-09-1983		96	37	58	4	330	4.8	9	.58	1.6		.01	23	.08	1			20		2.765	7.4	

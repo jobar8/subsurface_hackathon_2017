@@ -1,0 +1,8 @@
+LOCATIE gegevens
+NITG-nr	X-coord	Y-coord	Coordinaat systeem	Kaartblad	Bepaling locatie	Maaiveldhoogte (m tov NAP)	Bepaling maaiveldhoogte	OLGA-nr	RIVM-nr	Aantal analyses	Meetnet	Indeling	
+B25F0021	135040	493010	Rijksdriehoeksmeting	25F	Geschat, detailkaart 1:2500	-2.5		25FA3021		2			
+
+KWALITEIT gegevens VLOEIBAAR
+NITG-nr	Monster datum	Monster-nr	Monster apparatuur	Mengmonster	Bovenkant monster (cm tov MV)	Onderkant monster (cm tov MV)	Analyse datum	CO2 (mg/l)	CO3-- (mg/l)	Ca (mg/l)	Cl- (mg/l)	EC (uS/cm)	Fe (mg/l)	HCO3 (mg/l)	K (mg/l)	KLEUR (mgPt/l)	KMNO4V-O (mg/l)	Mg (mg/l)	Mn (mg/l)	NH4 (mg/l)	NH4-ORG (mg/l)	NO2 (mg/l)	NO3 (mg/l)	Na (mg/l)	NaHCO3 (mg/l)	SO4 (mg/l)	SiO2 (mg/l)	T-PO4 (mg/l)	TEMP-V (C)	TOTH (mmol/l)	pH (-)	
+B25F0021	13-04-1955	C1955-04-1017		nee	8800.0	9600.0	13-04-1955	117	0	192	676	286.96	7.2	1206	108	42	57.9	60.4	1.6	43.5	.8	0	0	446	84	13.2	27.2	.15	18	7.274	7.41	
+B25F0021	13-04-1955	C1955-04-1018		nee	26800.0	27600.0	13-04-1955	63.5	0	287	1620	464.59	2	935	31.7	24	35.2	103	.46	12.5	.39		0	820	0	3.5	14.8	.08	18	11.397	7.54	

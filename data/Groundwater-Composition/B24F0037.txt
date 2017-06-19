@@ -1,0 +1,11 @@
+LOCATIE gegevens
+NITG-nr	X-coord	Y-coord	Coordinaat systeem	Kaartblad	Bepaling locatie	Maaiveldhoogte (m tov NAP)	Bepaling maaiveldhoogte	OLGA-nr	RIVM-nr	Aantal analyses	Meetnet	Indeling	
+B24F0037	98340	497694	Rijksdriehoeksmeting	24F				24FA3037		5			
+
+KWALITEIT gegevens VLOEIBAAR
+NITG-nr	Monster datum	Monster-nr	Monster apparatuur	Mengmonster	Bovenkant monster (cm tov MV)	Onderkant monster (cm tov MV)	Analyse datum	CO2 (mg/l)	CO3-- (mg/l)	Ca (mg/l)	Cl- (mg/l)	EC (uS/cm)	Fe (mg/l)	HCO3 (mg/l)	KLEUR (mgPt/l)	Mg (mg/l)	Mn (mg/l)	NH4 (mg/l)	NO2 (mg/l)	NO3 (mg/l)	Na (mg/l)	NaHCO3 (mg/l)	SO4 (mg/l)	SiO2 (mg/l)	T-PO4 (mg/l)	TEMP-V (C)	TIJDH (mmol/l)	TOTH (mmol/l)	pH (-)	
+B24F0037	14-09-1964	C1964-09-1023		nee			14-09-1964	65	0	520	14200	3368.17	9.7	905	25	912	.86	35	0	0	7840	0	1405	10.4	1.7	18	15.12	51.48	7.5	
+B24F0037	14-09-1964	C1964-09-1021		nee			14-09-1964	23	0	200	2800	784.44	1.9	505	35	154	.4	14	0	0	1540	0	120	23.8	2.5	18	8.35	11.484	7.7	
+B24F0037	14-09-1964	C1964-09-1020		nee			14-09-1964	0		376	16250	3860.4	.23	160	15	1660	.03	.57	.2	0	8070	0	2305		.28	18	2.62	79.2	8.3	
+B24F0037	14-09-1964	C1964-09-1024		nee			14-09-1964	65	0	776	13400	3126.24	10.2	700	45	830	.77	46	0	0	7080	0	1415	36.6	3.1	18	11.52	54.36	7.4	
+B24F0037	14-09-1964	C1964-09-1022		nee			14-09-1964	63	0	548	9400	2282.1	11.1	865	32	583	1.1	23	0	0	5015	0	730	23.6	2	18	14.4	38.34	7.5	

@@ -1,0 +1,16 @@
+LOCATIE gegevens
+NITG-nr	X-coord	Y-coord	Coordinaat systeem	Kaartblad	Bepaling locatie	Maaiveldhoogte (m tov NAP)	Bepaling maaiveldhoogte	OLGA-nr	RIVM-nr	Aantal analyses	Meetnet	Indeling	
+B25G0519	120516	485658	Rijksdriehoeksmeting	25G		0.7		25GP0519		10			
+
+KWALITEIT gegevens VLOEIBAAR
+NITG-nr	Monster datum	Monster-nr	Monster apparatuur	Mengmonster	Bovenkant monster (cm tov MV)	Onderkant monster (cm tov MV)	Analyse datum	As (ug/l)	As(III) (ug/l)	Ca (mg/l)	Cl- (mg/l)	EC (mS/m)	EC (uS/cm)	Fe (mg/l)	HCO3 (mg/l)	K (mg/l)	Mg (mg/l)	Mn (mg/l)	NH4 (mg/l)	NO3 (mg/l)	Na (mg/l)	O-PO4 (mg/l)	PO4 (mg/l)	SO4 (mg/l)	SiO2 (mg/l)	TEMP-V (C)	TOTH (mmol/l)	pH (-)	
+B25G0519		C1981-01-1104		nee	4247.0	4347.0	01-01-1981				2000																		
+B25G0519		C1981-01-1103		nee	2840.0	2940.0	01-01-1981				1080																		
+B25G0519		C1981-01-1105		nee	6389.0	6489.0	01-01-1981				1370																		
+B25G0519	12-10-1994	T1989-00-3408		nee	63890.0	64890.0	12-10-1994			178	1468		5267	16.83	766	11.8	71	.19	12.6	3.78	812		1.1	5	21.2			7.24	
+B25G0519	12-10-1994	T1989-00-3408		nee	63890.0	64890.0	12-10-1994	13.4	6.3																				
+B25G0519	12-10-1994	T1989-00-3407		nee	28400.0	29400.0	12-10-1994			206	1533		6220	18.72	1516	42.2	131	.59	34.3	.08	981		4.94	3	49.5			6.95	
+B25G0519	12-10-1994	T1989-00-3407		nee	28400.0	29400.0	12-10-1994	45	57.8																				
+B25G0519	11-10-1983	C1983-10-1111		nee	42590.0	43590.0	11-10-1983			330	2551	757		14.9	808	29.1	169	1.7	20.3	.01	1300	.01		11		20	15.185	7.1	
+B25G0519	11-10-1983	C1983-10-1112		nee	64010.0	65010.0	11-10-1983			180	1460	490		8.6	696	11.9	80	.27	7.8	.01	830	.01		8		20	7.781	7.3	
+B25G0519	11-10-1983	C1983-10-1110		nee	28520.0	29520.0	11-10-1983			175	1101	468		2.6	1505	46	114	1.4	23.7	.01	790	.02		9		20	9.055	7	

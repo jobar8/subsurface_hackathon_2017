@@ -1,0 +1,8 @@
+LOCATIE gegevens
+NITG-nr	X-coord	Y-coord	Coordinaat systeem	Kaartblad	Bepaling locatie	Maaiveldhoogte (m tov NAP)	Bepaling maaiveldhoogte	OLGA-nr	RIVM-nr	Aantal analyses	Meetnet	Indeling	
+B25C0064	101020	486360	Rijksdriehoeksmeting	25C		5.1		25CA3064		2			
+
+KWALITEIT gegevens VLOEIBAAR
+NITG-nr	Monster datum	Monster-nr	Monster apparatuur	Mengmonster	Bovenkant monster (cm tov MV)	Onderkant monster (cm tov MV)	Analyse datum	Cl- (mg/l)	Fe (mg/l)	KMNO4V-O (mg/l)	NH4 (mg/l)	NO2 (mg/l)	NO3 (mg/l)	T-PO4 (mg/l)	TEMP-V (C)	
+B25C0064	26-11-1901	C1901-11-1007		nee		40000.0	26-11-1901	32.8	2	13.5	5.7	0	0	0	0	
+B25C0064	25-11-1901	C1901-11-1006		nee		34000.0	25-11-1901	34.2	3	19	5.94	0	0	0	0	

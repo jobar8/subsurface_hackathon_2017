@@ -1,0 +1,8 @@
+LOCATIE gegevens
+NITG-nr	X-coord	Y-coord	Coordinaat systeem	Kaartblad	Bepaling locatie	Maaiveldhoogte (m tov NAP)	Bepaling maaiveldhoogte	OLGA-nr	RIVM-nr	Aantal analyses	Meetnet	Indeling	
+B24H0194	99620	487270	Rijksdriehoeksmeting	24H		8.21		24HP0194		2			
+
+KWALITEIT gegevens VLOEIBAAR
+NITG-nr	Monster datum	Monster-nr	Monster apparatuur	Mengmonster	Bovenkant monster (cm tov MV)	Onderkant monster (cm tov MV)	Analyse datum	CO2 (mg/l)	Ca (mg/l)	Cl- (mg/l)	EC (uS/cm)	Fe (mg/l)	HCO3 (mg/l)	KLEUR (mgPt/l)	KMNO4V-O (mg/l)	Mg (mg/l)	Mn (mg/l)	NH4 (mg/l)	NH4-ORG (mg/l)	NO2 (mg/l)	NO3 (mg/l)	Na (mg/l)	NaHCO3 (mg/l)	SO4 (mg/l)	SiO2 (mg/l)	T-PO4 (mg/l)	TEMP-V (C)	TIJDH (mmol/l)	TOTH (mmol/l)	
+B24H0194	04-07-1960	C1960-07-1007		nee	42000.0	43000.0	04-07-1960	9	60.5	27	50.27	1.5	321	20	14	21	.58	6.1	.3	0	0	23.3	41	2.9	46.4	3.3	18	4.82	2.412	
+B24H0194	04-07-1960	C1960-07-1008		nee	49000.0	50000.0	04-07-1960	8	60.8	28	47.34	1.5	298	23	15	16.3	.33	3	.47	0	0	27.2	41	2.9	44.8	3	18	4.42	2.214	

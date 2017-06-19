@@ -1,0 +1,15 @@
+LOCATIE gegevens
+NITG-nr	X-coord	Y-coord	Coordinaat systeem	Kaartblad	Bepaling locatie	Maaiveldhoogte (m tov NAP)	Bepaling maaiveldhoogte	OLGA-nr	RIVM-nr	Aantal analyses	Meetnet	Indeling	
+B25A0239	102599	497454	Rijksdriehoeksmeting	25A	Geschat, detailkaart 1:2500	6.75		25AA3239		9			
+
+KWALITEIT gegevens VLOEIBAAR
+NITG-nr	Monster datum	Monster-nr	Monster apparatuur	Mengmonster	Bovenkant monster (cm tov MV)	Onderkant monster (cm tov MV)	Analyse datum	CO2 (mg/l)	Ca (mg/l)	Cl- (mg/l)	Fe (mg/l)	KLEUR (mgPt/l)	KMNO4V-G (mg/l)	KMNO4V-O (mg/l)	Mg (mg/l)	Mn (mg/l)	NH4 (mg/l)	NH4-ORG (mg/l)	SO4 (mg/l)	SiO2 (mg/l)	TEMP-V (C)	TOTH (mmol/l)	
+B25A0239		C1912-01-1008		nee		2946.0	01-01-1912	37.7	81.4	37.1	3.2	9	10.6	26.5	10.1	0	3.7	.27	11.5	58	0	2.306	
+B25A0239	28-06-1912	C1912-06-1027		nee	10750.0	11750.0	28-06-1912	58.4	110.5	69.7	3.9	15.8	20.8	25.9	5.2	.6	.71	.43	69.6	16.4	0	3.017	
+B25A0239	17-05-1912	C1912-05-1010		nee	36250.0	44000.0	17-05-1912	17	90.2	36	4.3	17.5	9.8	11.3	7.3	.5	2.4	.38	0	38	0	2.592	
+B25A0239	04-05-1912	C1912-05-1003		nee	36250.0	44000.0	04-05-1912	38.6	87.2	35.3	3.6	11.8	10.3	13.3	6.7	.5	1.9	.22	0	36	0	2.489	
+B25A0239	14-03-1912	C1912-03-1014		nee		43630.0	14-03-1912	7	85.2	34	2.6	10	7.4		7	.5	2.1			39	0	2.448	
+B25A0239	04-03-1912	C1912-03-1003		nee		29460.0	04-03-1912	9.7	79.5	38	2.5	15	10.7		7.8	.3	4.1		4.8	60	0	2.34	
+B25A0239	04-03-1912	C1912-03-1004		nee		38300.0	04-03-1912	7	88	36	3.1	12	9.8		2	.55	1.6			40	0	2.315	
+B25A0239	02-03-1912	C1912-03-1002		nee		43630.0	02-03-1912	36.6	84.1	34.4	4.5	9.5	9.8	20.8	7.3	.5	2.1	.19	0	35.6	0	2.435	
+B25A0239	26-02-1912	C1912-02-1025		nee		38300.0	26-02-1912	39.4	93.2	36.2	4.3	9.5	9.5		5.1	3.7	1.6	.12	0	36	0	2.576	

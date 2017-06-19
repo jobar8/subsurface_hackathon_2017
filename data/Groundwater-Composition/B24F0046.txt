@@ -1,0 +1,14 @@
+LOCATIE gegevens
+NITG-nr	X-coord	Y-coord	Coordinaat systeem	Kaartblad	Bepaling locatie	Maaiveldhoogte (m tov NAP)	Bepaling maaiveldhoogte	OLGA-nr	RIVM-nr	Aantal analyses	Meetnet	Indeling	
+B24F0046	99145	492400	Rijksdriehoeksmeting	24F				24FA3046		8			
+
+KWALITEIT gegevens VLOEIBAAR
+NITG-nr	Monster datum	Monster-nr	Monster apparatuur	Mengmonster	Bovenkant monster (cm tov MV)	Onderkant monster (cm tov MV)	Analyse datum	Ca (mg/l)	Cl- (mg/l)	EC (mS/m)	Fe (mg/l)	HCO3 (mg/l)	Mg (mg/l)	NH4 (mg/l)	TEMP-V (C)	TOTH (mmol/l)	
+B24F0046		C1981-01-1007		nee			01-01-1981		15970								
+B24F0046		C1981-01-1004		nee			01-01-1981		84								
+B24F0046		C1981-01-1005		nee			01-01-1981		37								
+B24F0046		C1981-01-1006		nee			01-01-1981		53								
+B24F0046	14-04-1983	C1983-04-1037		nee			14-04-1983	73	42	52	3	311	17	.95	20	2.52	
+B24F0046	14-04-1983	C1983-04-1039		nee			14-04-1983		16183								
+B24F0046	14-04-1983	C1983-04-1038		nee			14-04-1983		57								
+B24F0046	14-04-1983	C1983-04-1036		nee			14-04-1983		74								

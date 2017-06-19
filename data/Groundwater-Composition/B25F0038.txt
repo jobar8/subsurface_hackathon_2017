@@ -1,0 +1,11 @@
+LOCATIE gegevens
+NITG-nr	X-coord	Y-coord	Coordinaat systeem	Kaartblad	Bepaling locatie	Maaiveldhoogte (m tov NAP)	Bepaling maaiveldhoogte	OLGA-nr	RIVM-nr	Aantal analyses	Meetnet	Indeling	
+B25F0038	133150	497900	Rijksdriehoeksmeting	25F		-0.89		25FP0038		5			
+
+KWALITEIT gegevens VLOEIBAAR
+NITG-nr	Monster datum	Monster-nr	Monster apparatuur	Mengmonster	Bovenkant monster (cm tov MV)	Onderkant monster (cm tov MV)	Analyse datum	CO2 (mg/l)	CO3-- (mg/l)	Ca (mg/l)	Cl- (mg/l)	EC (uS/cm)	Fe (mg/l)	HCO3 (mg/l)	K (mg/l)	KLEUR (mgPt/l)	KMNO4V-G (mg/l)	KMNO4V-O (mg/l)	Mg (mg/l)	Mn (mg/l)	NH4 (mg/l)	NH4-ORG (mg/l)	NO2 (mg/l)	Na (mg/l)	NaHCO3 (mg/l)	SO4 (mg/l)	SiO2 (mg/l)	T-PO4 (mg/l)	TEMP-V (C)	TIJDH (mmol/l)	TOTH (mmol/l)	pH (-)	
+B25F0038	12-05-1953	C1953-05-1018		nee	27010.0	28010.0	12-05-1953	109	0	384	4290	1186.61	15	1360	3.91	139	100	129	285	1.7	20.5	.75	0	2270	0	0	44.8	.52	18	22.32	21.464	7.47	
+B25F0038	01-04-1943	C1943-04-1002		nee	50010.0	51010.0	01-04-1943			316	2521	748.83	.38	980					111					1265	0				18	16.07	12.446		
+B25F0038	01-04-1943	C1943-04-1001		nee	27010.0	28010.0	01-04-1943			388	4335	1235.83	.13	1416					306					2260	0				18	23.21	22.321		
+B25F0038	05-03-1943	C1943-03-1015		nee	35000.0	36000.0	05-03-1943			407	4558	1131.62	.1	1257					250					2463	0	0			18	20.77	20.7		
+B25F0038	03-03-1943	C1943-03-1012		nee	52000.0	53000.0	03-03-1943			329	2560	707.67	.8	963					119					1398	0	1.4			18	15.91	13.266		

@@ -1,0 +1,8 @@
+LOCATIE gegevens
+NITG-nr	X-coord	Y-coord	Coordinaat systeem	Kaartblad	Bepaling locatie	Maaiveldhoogte (m tov NAP)	Bepaling maaiveldhoogte	OLGA-nr	RIVM-nr	Aantal analyses	Meetnet	Indeling	
+B24F0034	99845	488365	Rijksdriehoeksmeting	24F	GPS (Global Positioning System)	12.3	Differentieel GPS	24FA3034		2			
+
+KWALITEIT gegevens VLOEIBAAR
+NITG-nr	Monster datum	Monster-nr	Monster apparatuur	Mengmonster	Bovenkant monster (cm tov MV)	Onderkant monster (cm tov MV)	Analyse datum	CO2 (mg/l)	CO3-- (mg/l)	Ca (mg/l)	Cl- (mg/l)	EC (uS/cm)	Fe (mg/l)	HCO3 (mg/l)	KLEUR (mgPt/l)	KMNO4V-O (mg/l)	Mg (mg/l)	Mn (mg/l)	NH4 (mg/l)	NH4-ORG (mg/l)	NO2 (mg/l)	NO3 (mg/l)	Na (mg/l)	NaHCO3 (mg/l)	SO4 (mg/l)	SiO2 (mg/l)	T-PO4 (mg/l)	TEMP-V (C)	TIJDH (mmol/l)	TOTH (mmol/l)	pH (-)	
+B24F0034	17-07-1963	C1963-07-1035		nee	33300.0	47300.0	17-07-1963	9	0	80	27	44.41	1.9	262	15	15	4.8	.29	1.4	.17	0	0	19	0	12.2			18	4.32	2.214	7.84	
+B24F0034	17-05-1963	C1963-05-1032		nee	33300.0	47300.0	17-05-1963	16	0	122.8	42	63.68	6	311	12	14	5.3	.7	.92	.1	0	0	25.4	0	63.4	20.8	1.1	18	5.14	3.312	7.67	
