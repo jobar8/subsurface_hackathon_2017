@@ -1,7 +1,7 @@
 # subsurface_hackathon_2017
 *Three notebooks to jump start a data science project*
 
-This repository is associated with a post on my [blog]().
+This repository is associated with a post on my [blog](http://geophysicslabs.com/2017/06/19/three-notebooks-to-jump-start-a-data-science-project/).
 
 ---
 The three Jupyter notebooks that you will find here were originally written during the [Subsurface Hackathon](https://agilescientific.com/blog/2017/6/13/le-grand-hack) that took place in Paris in June 2017. [Martin Bentley](https://github.com/mtb-za) and I were in a team that tried to exploit the free availability of groundwater data from the [Geological Survey of the Netherlands](https://www.dinoloket.nl/en).
