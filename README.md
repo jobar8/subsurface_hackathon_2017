@@ -8,7 +8,7 @@ The three Jupyter notebooks that you will find here were originally written duri
 
 The notebooks provide some examples written in Python for tackling this project, but I think the code is pretty generic and can be used for a large range of other data science projects, especially in geology or geophysics. 
 
-(./mean_depth_vs_time.png)
+![mean_depth_vs_time](./mean_depth_vs_time.png)
 
 While much more is certainly possible to achieve with this dataset, I hope this work can help anyone who wants to start a data science project using open data, Python, the pandas library, and Jupyter notebooks.
 
