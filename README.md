@@ -20,3 +20,5 @@ While much more is certainly possible to achieve with this dataset, I hope this 
 - numpy 1.12
 - Scipy 0.19
 - ipywidgets 6.0
+
+Note that the notebooks might certainly work with slightly different configurations - nothing here is cutting edge.
